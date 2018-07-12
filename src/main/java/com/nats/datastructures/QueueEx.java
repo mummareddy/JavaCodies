@@ -1,5 +1,8 @@
 package com.nats.datastructures;
 
+import java.util.Collection;
+import java.util.Iterator;
+
 public class QueueEx {
 
 	public static void main(String[] args) {
