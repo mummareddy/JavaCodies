@@ -8,6 +8,7 @@ public class NumbersHelper {
         int a=10;
         int b=5;
         System.out.println(add(a, b));
+        System.out.println(add(a, b));
     }
     private static int add(int a, int b){
         return a+b;
