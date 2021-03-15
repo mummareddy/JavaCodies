@@ -9,7 +9,7 @@ public class NumbersHelper {
         int b=5;
         System.out.println(add(a, b));
     }
-    static int add(int a, int b){
+    private static int add(int a, int b){
         return a+b;
     }
 }
