@@ -10,6 +10,7 @@ public class NumbersHelper {
         System.out.println(sub(a, b));
         System.out.println(mul(a, b));
         System.out.println(div(a, b));
+        System.out.println(div(a, b));
 
     }
     static int add(int a, int b){
